@@ -1,0 +1,4 @@
+aiohttp>=3.11,<4
+numpy>=2,<3
+sounddevice>=0.5,<1
+cryptography>=44
