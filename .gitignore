@@ -1,0 +1,25 @@
+.venv/
+.runtime/
+__pycache__/
+.pytest_cache/
+*.pyc
+dist/
+work/
+*.spec
+
+# Never publish machine identity, credentials or local exports
+*.crt
+*.cer
+*.pem
+*.key
+*.pfx
+*.p12
+.env
+.env.*
+!.env.example
+*.log
+*.wav
+*.mp3
+*.zip
+outputs/
+build/
